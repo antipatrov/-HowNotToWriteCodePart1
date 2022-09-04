@@ -44,7 +44,7 @@ void ArithMean(int[,] matr)
             
         }
         mean = sum / matr.GetLength(0);
-       Console.Write($"{Math.Round(mean,2)}  ");
+       Console.Write($"{Math.Round(mean,3)}  ");
     }
 }
 
