@@ -1,0 +1,15 @@
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\bin\Debug\net6.0\052.exe
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\bin\Debug\net6.0\052.deps.json
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\bin\Debug\net6.0\052.runtimeconfig.json
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\bin\Debug\net6.0\052.dll
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\bin\Debug\net6.0\052.pdb
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\obj\Debug\net6.0\052.csproj.AssemblyReference.cache
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\obj\Debug\net6.0\052.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\obj\Debug\net6.0\052.AssemblyInfoInputs.cache
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\obj\Debug\net6.0\052.AssemblyInfo.cs
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\obj\Debug\net6.0\052.csproj.CoreCompileInputs.cache
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\obj\Debug\net6.0\052.dll
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\obj\Debug\net6.0\refint\052.dll
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\obj\Debug\net6.0\052.pdb
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\obj\Debug\net6.0\052.genruntimeconfig.cache
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок007_КакНеНужноПисатьКод\052\obj\Debug\net6.0\ref\052.dll
